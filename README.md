@@ -1,11 +1,13 @@
 ## Advent of code
 
-To start:
-`npm install`
+### Getting started
 
-To run a day's file:
-`npm run ts-node src/day-<day-number-here>/index.ts`
+Run `npm install`
+
+### Getting the answer for the day
+
+Run `npm run ts-node src/day-<day-number-here>/solution.ts`
 
 eg:
 
-    npm run ts-node src/day-4/index.ts
+    npm run ts-node src/day-4/solution.ts
